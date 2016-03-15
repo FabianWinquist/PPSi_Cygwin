@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.cmd
+example-printf
+example-printf64

@@ -1,0 +1,9 @@
+ptpdump
+adjtime
+jmptime
+chktime
+adjrate
+pps-out
+.*exe
+.*cmd
+*.o
